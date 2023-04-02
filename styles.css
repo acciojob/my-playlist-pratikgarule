@@ -14,7 +14,15 @@
 
 a{
 	text-decoration-line: none;
+	length:2px;
 }
 h2{
     text-align:center;	
+	length:2px;
+}
+ul{
+	length:2px;
+}
+li{
+	length:2px;
 }
